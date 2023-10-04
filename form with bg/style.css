@@ -1,0 +1,42 @@
+body{
+    background-image: url(./img/img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.formbody{
+    /* background-color: rgb(0, 0, 0); */
+    height: 520px;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 35px;
+    padding: 25px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(165, 163, 55, 0.308);
+    border: 3px solid rgba(255, 255, 255, 0.233);
+    border-radius: 25px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Heebo', sans-serif;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.imginput{
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+}
+.condition h3{
+    color: rgb(0, 75, 75);
+    margin-top: -10px;
+  
+}
+.formbtn{
+    display: flex;
+    justify-content: center;
+}
